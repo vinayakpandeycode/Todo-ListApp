@@ -25,3 +25,5 @@ Today marks my 10th day of web development practice, and I built a To-Do List Ap
 This project helped me strengthen my JavaScript skills, especially DOM manipulation, event handling, and local storage.
 
 📌 Check out the project on GitHub: https://vinayakpandeycode.github.io/Todo-ListApp/
+
+![Image](https://github.com/user-attachments/assets/a415c51c-b6de-4ae4-a674-005584088a77)
